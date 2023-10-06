@@ -24,9 +24,3 @@ The following files are included in this repo:
 ## Technologies
 
 Python 3.7.6
-
-
-
-## Contact
-
-Created by [@katrinaalaimo](https://www.katrinaalaimo.com/) — feel free to contact me!
